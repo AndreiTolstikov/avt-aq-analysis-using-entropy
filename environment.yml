@@ -1,7 +1,7 @@
 # To use:
 #   $ conda env create -f environment.yml
-#   $ conda activate aq_by_entropy
-name: aq_by_entropy
+#   $ conda activate avt_aq_by_entropy
+name: avt_aq_by_entropy
 dependencies:
   - python=3.9
   - pip
